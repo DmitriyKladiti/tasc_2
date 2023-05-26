@@ -1,0 +1,13 @@
+rwx	2023-07-05 19:13:13	539,00 B	.gitignore
+rwx	2023-07-05 19:17:54	4,00 KB	.gradle
+rwx	2023-23-05 22:00:01	4,00 KB	.idea
+rwx	2023-11-05 22:51:53	4,00 KB	build
+rwx	2023-12-05 08:48:56	552,00 B	build.gradle.kts
+rwx	2023-07-05 19:13:13	0,00 B	gradle
+rwx	2023-07-05 19:13:13	27,00 B	gradle.properties
+rwx	2023-07-05 19:13:13	7,88 KB	gradlew
+rwx	2023-07-05 19:13:13	2,70 KB	gradlew.bat
+rwx	2023-11-05 22:44:18	0,00 B	out
+rwx	2023-23-05 22:00:03	0,00 B	out.txt
+rwx	2023-07-05 19:13:13	30,00 B	settings.gradle.kts
+rwx	2023-07-05 19:13:13	0,00 B	src

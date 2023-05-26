@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: MainKt
+Class-Path: args4j-2.33.jar kotlin-test-junit5-1.8.0.jar junit-jupiter-e
+ ngine-5.6.3.jar kotlin-stdlib-common-1.8.0.jar kotlin-stdlib-jdk8-1.8.0
+ .jar kotlin-stdlib-1.8.0.jar kotlin-stdlib-jdk7-1.8.0.jar kotlin-test-1
+ .8.0.jar annotations-13.0.jar junit-platform-commons-1.6.3.jar junit-ju
+ piter-api-5.6.3.jar opentest4j-1.2.0.jar apiguardian-api-1.1.0.jar juni
+ t-platform-engine-1.6.3.jar
+
